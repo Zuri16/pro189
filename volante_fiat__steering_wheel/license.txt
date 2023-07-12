@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volante FIAT / Steering Wheel
+* source:	https://sketchfab.com/3d-models/volante-fiat-steering-wheel-778c6cce5d47420da251e049426fc5e2
+* author:	Gabriel.Olivera (https://sketchfab.com/Gabriel.Olivera)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volante FIAT / Steering Wheel" (https://sketchfab.com/3d-models/volante-fiat-steering-wheel-778c6cce5d47420da251e049426fc5e2) by Gabriel.Olivera (https://sketchfab.com/Gabriel.Olivera) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
